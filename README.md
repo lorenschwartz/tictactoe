@@ -1,10 +1,8 @@
 # tictactoe
 
-FIXME: Write a one-line description of your library/project.
+This is a game of Tic Tac Toe. Have Fun!
 
 ## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
 
 ## Setup
 
@@ -30,7 +28,7 @@ To create a production build run:
     lein do clean, cljsbuild once min
 
 And open your browser in `resources/public/index.html`. You will not
-get live reloading, nor a REPL. 
+get live reloading, nor a REPL.
 
 ## License
 
