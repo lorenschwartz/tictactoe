@@ -1,6 +1,6 @@
 # tictactoe
 
-This is a game of Tic Tac Toe. Have Fun!
+This is a game of Tic Tac Toe. Have Fun!...
 
 ## Overview
 
